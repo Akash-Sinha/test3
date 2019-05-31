@@ -1,2 +1,7 @@
-data in line 1
-data in line 2
+
+
+1. Create a repository in Github called ProblemSolving-may-2019
+
+2. Rename the problemsolving folder on the desktop to problemsolving-may-2019
+
+
